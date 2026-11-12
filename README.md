@@ -43,7 +43,7 @@ Tenho experiência na coleta, processamento e análise de dados, criação de re
 
 ### Desenvolvedor Mobile — S&L Energia
 
-**2025**
+**2025| Belém, PA**
 
 Desenvolvimento de aplicação mobile para gerenciamento e utilização de estações de carregamento de veículos elétricos, incluindo:
 
@@ -55,7 +55,7 @@ Desenvolvimento de aplicação mobile para gerenciamento e utilização de esta�
 
 ### Analista de Suporte Computacional Júnior — TECHCOM
 
-**2024 | Belém, PA**
+**2024| Belém, PA**
 
 - Administração do Google Workspace
 - Gestão de endpoints com Ivanti e CyberArk
@@ -71,14 +71,14 @@ Desenvolvimento de aplicação mobile para gerenciamento e utilização de esta�
 
 ### Instrutor de Informática — Programa de Extensão do ICSA/UFPA
 
-**2023**
+**2023| Belém, PA**
 
 - Ministração de aulas de informática básica, intermediária e avançada
 - Criação de materiais didáticos e planos de aula
 - Acompanhamento do desempenho dos alunos
 - Organização e manutenção do ambiente de informática
 
-### Analista de Sistemas — EXPORT LOGÍSTICOS
+### Analista de Sistemas — EXPORT LOGÍSTICS
 
 **2021 – 2023 | Belém, PA**
 
