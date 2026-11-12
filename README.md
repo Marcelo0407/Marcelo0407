@@ -1,6 +1,7 @@
 # Olá, eu sou Marcelo Siqueira David👋<p align="center">
+<p align="center">
   <img
-    src="https://github.com/user-attachments/assets/67f212b9-1b93-4163-9823-e7ee53e66d67"
+    src="https://github.com/user-attachments/assets/2d3fce61-228e-4ac9-926d-df7c10e21984"
     alt="Foto de Marcelo Siqueira David"
     width="180"
   />
